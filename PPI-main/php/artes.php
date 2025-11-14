@@ -13,6 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET')
 {
     echo "<legend>Gabarito</legend>";
     echo "<p>Matéria: Português <br></p>";
+    $result= 0;
     $p1= $_GET ["p1"];
     if ($p1==1)
      {

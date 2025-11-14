@@ -67,8 +67,7 @@ $p2= $_GET ["p2"];
         <legend>Questão 3</legend>
         <p class="central"> <img src="sequencia/a3.png" alt="imagem central"></p>
         <div class="container">
-        <p>
-Mestre Vitalino, importante ceramista popular brasileiro, na obra reproduzida, retrata uma cena típica da cultura nordestina: o horário da refeição. Seus bonecos de barro apresentam características artísticas marcantes, representadas como        </p>
+        <p> Mestre Vitalino, importante ceramista popular brasileiro, na obra reproduzida, retrata uma cena típica da cultura nordestina: o horário da refeição. Seus bonecos de barro apresentam características artísticas marcantes, representadas como:        </p>
         </div><br>
         <label>
             <input type="radio" name="a3" value="0"> a) Humanas, com fixação do momento de um gesto.<br>
